@@ -1,6 +1,11 @@
 #!/bin/bash
 
+## TEMPORIZADOR ##
+
+while true; do
+
 ## VARIAVEIS ##
+
 ftp1='177.10.249.146'
 ftp2='201.59.201.90'
 ftp3='201.30.158.147'
@@ -126,5 +131,10 @@ fi
 rm -rf $path/$ftp1
 rm -rf $path/$ftp2
 rm -rf $path/$ftp3
+
+## TEMPORIZADOR ##
+
+sleep 2m
+done
 
 ## FIM ##
