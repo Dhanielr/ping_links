@@ -8,7 +8,7 @@ menor_ping=99999999
 menor_perca=99999999
 data=$(echo "["$(date "+%d/%b/%y %H:%M:%S")"]")
 log='ftp.log'
-path='/home/dhaniel/Gitlab/ping_ftp'
+path='./'
 
 ## CRIANDO LOG ##
 if [ ! -e $path/$log ]; then

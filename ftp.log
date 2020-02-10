@@ -1,0 +1,8 @@
+[10/fev/20 11:24:08] Coletando informações dos links FTP...
+[10/fev/20 11:24:30] Calculando média de ping do link 177.10.249.146
+[10/fev/20 11:24:30] Link 177.10.249.146 está perdendo 5 pacotes em um intervalo de 5 pings e não entrará na distribuição nesse momento.
+[10/fev/20 11:24:30] Calculando média de ping do link 201.59.201.90
+[10/fev/20 11:24:30] Média de ping do link 201.59.201.90 é 113 ms
+[10/fev/20 11:24:30] Calculando média de ping do link 201.30.158.147
+[10/fev/20 11:24:30] Média de ping do link 201.30.158.147 é 58 ms
+[10/fev/20 11:24:30] Link com melhor ping atualmente é 201.30.158.147
